@@ -6,7 +6,7 @@
 
 ## 📘Ementa
 
-### JavaScript: Arrays
+### JavaScript: conhecendo arrays
 
 - Compreender o que são arrays e porque são importantes
 - Alterar arrays com os métodos do JS
